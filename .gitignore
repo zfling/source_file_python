@@ -105,5 +105,10 @@ venv.bak/
 
 # myproject
 .idea/
+source_file.txt
+# uboot
 uboot_vexpress_log.txt
+autoconf.mk.dep
+
+# linux
 
